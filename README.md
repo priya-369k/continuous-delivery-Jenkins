@@ -17,6 +17,8 @@ Enterprise-grade **Continuous Delivery (CD) pipeline** automating the entire sof
 
 ## 🏗️ Architecture
 
+<img width="2048" height="2048" alt="image" src="https://github.com/user-attachments/assets/96736c50-1d86-4407-8306-e168e3bec270" />
+
 ### **Technology Stack**
 
 | Tool | Purpose |
